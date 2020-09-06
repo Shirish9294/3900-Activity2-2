@@ -34,7 +34,7 @@ header{
   font-size: 35px;
   color:#fff;
   letter-spacing: 5px;
-  font-family: Courier New;
+  font-family: Courier;
 }
 
 nav{
@@ -43,7 +43,7 @@ nav{
 }
 nav a{
   text-decoration: none;
-  font-family: Courier New;
+  font-family: Courier;
   letter-spacing:4px;
   font-size:30px;
   margin:0 10px;
@@ -92,11 +92,12 @@ clip-path:polygon(0% 25%,0% 75%,50% 100%,100% 75%,100% 25%,50% 0%);
   height:275px;
   background: #fff;
   opacity: 0;
-  padding:110px 40px;
+  font-family: Courier;
+  padding:115px 30px;
 }
 .img:hover .text
 {
-  opacity: 0.8;
+  opacity: 0.9;
   text-align: center;
   color: black;
   font-size: 30px;
